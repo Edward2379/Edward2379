@@ -62,6 +62,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 <img src="https://img.shields.io/badge/-Splunk%20Enterprise%20Security%20Administrator-8B0000?&style=for-the-badge&logo=splunk&logoColor=white" />
 
+<img src="https://img.shields.io/badge/-RedHat%20System%20Administrator-EE0000?&style=for-the-badge&logo=redhat&logoColor=white" />
+
 
 
 
