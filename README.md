@@ -45,15 +45,14 @@ My journey in telecommunications and leadership roles has led me to develop a pa
 ## Certifications
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2 CC-006400?&style=for-the-badge&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-ISC2 Certified Cybersecurity-006400?&style=for-the-badge&logoColor=white" />
   
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Security%20Engineer-0089D6?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
 
 <img src="https://img.shields.io/badge/-AWS%20Security%20Specialty-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Security%20Engineer-333333?&style=for-the-badge&logo=googlecloud&logoColor=FFFF00" />
-
 
 <img src="https://img.shields.io/badge/-Splunk%20Enterprise%20Security%20Administrator-8B0000?&style=for-the-badge&logo=splunk&logoColor=white" />
 
